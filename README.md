@@ -7,4 +7,6 @@ platform:
 - [repositories on gitlab](https://gitlab.com/WhyNotHugo)
 - [repositories on sourcehut](https://git.sr.ht/~whynothugo)
 
+Only existing projects that are well established are remaining here, for now.
+
 [More about me](https://hugo.barrera.io/)
