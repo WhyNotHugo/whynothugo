@@ -1,12 +1,13 @@
 # Hugo O. Barrera
 
-See algo my packages here:
+My dotfiles have moved [here](https://git.sr.ht/~whynothugo/dotfiles).
 
-- [my dotfiles](https://git.sr.ht/~whynothugo/dotfiles)
+Other repositories are hosted at:
+
 - https://git.sr.ht/~whynothugo
 - https://gitlab.com/WhyNotHugo
 
-Only existing projects that are established are remaining on GitHub. New
-projects are hosted on Open Source platforms.
+Only existing, established projects are remaining on GitHub. New projects are
+hosted on Open Source platforms.
 
 [More about me](https://hugo.barrera.io/)
