@@ -1,0 +1,7 @@
+group:
+  repos:
+  - caffeine-ng/caffeine-ng
+  - whynothugo/django-afip
+  - whynothugo/python-barcode
+  files:
+  - .pre-commit-config.yaml
