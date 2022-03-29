@@ -1,15 +1,12 @@
 # Hugo O. Barrera
 
-My dotfiles have moved [here](https://git.sr.ht/~whynothugo/dotfiles).
-
-Other repositories are hosted at:
+My repositories are hosted at:
 
 - https://git.sr.ht/~whynothugo
 - https://gitlab.com/WhyNotHugo
 
-Donate via [LiberaPay](https://liberapay.com/WhyNotHugo/).
+I accept sponsors for working on Open Source projects.
 
-Only existing, established projects are remaining on GitHub. New projects are
-hosted on Open Source platforms.
+Donations may be sent via [LiberaPay](https://liberapay.com/WhyNotHugo/).
 
 [More about me](https://hugo.barrera.io/)
