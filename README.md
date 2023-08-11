@@ -1,10 +1,13 @@
 # Hugo O. Barrera
 
-My repositories are hosted at:
+Most of my repositories are hosted at:
 
 - https://git.sr.ht/~whynothugo
 - https://gitlab.com/WhyNotHugo
 
-[Sponsor my open source work](https://whynothugo.nl/sponsor/).
+I'm a software developer, passionate about open source and sustainable tech and
+ethical software. I develop and maintain several open source project. You can
+[sponsor my work](https://whynothugo.nl/sponsor/).
 
-[More about me](https://whynothugo.nl/)
+I write about tech and publish status updates at my [personal
+website](https://whynothugo.nl/).
