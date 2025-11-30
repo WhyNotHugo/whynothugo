@@ -1,9 +1,9 @@
 # Hugo O. Barrera
 
 I'm a software developer passionate about open source, sustainable tech, and
-ethical software. I develop and maintain several [open source
-projects][projects]. Articles written by me and monthly status updates are
-available on my [personal website]. You can [sponsor my work].
+ethical software. I maintain several [open source projects][projects] and I
+post status updates and articles on my [personal website]. You can also
+[sponsor my work].
 
 [projects]: https://whynothugo.nl/projects/
 [personal website]: https://whynothugo.nl/
